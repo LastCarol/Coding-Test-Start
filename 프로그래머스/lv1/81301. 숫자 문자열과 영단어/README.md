@@ -1,6 +1,6 @@
 # [level 1] 숫자 문자열과 영단어 - 81301 
 
-[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/81301) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/81301) 
 
 ### 성능 요약
 
