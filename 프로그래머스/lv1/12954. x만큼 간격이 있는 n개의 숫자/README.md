@@ -1,6 +1,6 @@
 # [level 1] x만큼 간격이 있는 n개의 숫자 - 12954 
 
-[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/12954) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12954) 
 
 ### 성능 요약
 
